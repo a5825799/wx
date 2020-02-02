@@ -4,5 +4,7 @@
     <file url="file://$PROJECT_DIR$" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bjgx-auth" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/bjgx-service-wx" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bjgx-third" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/bjgx-third/bjgx-third-generator" charset="UTF-8" />
   </component>
 </project>

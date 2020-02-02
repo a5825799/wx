@@ -8,6 +8,7 @@
         <outputRelativeToContentRoot value="true" />
         <module name="bjgx-auth" />
         <module name="bjgx-service-wx" />
+        <module name="bjgx-third-generator" />
       </profile>
     </annotationProcessing>
   </component>
@@ -15,6 +16,8 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="bjgx-auth" options="-parameters" />
       <module name="bjgx-service-wx" options="-parameters" />
+      <module name="bjgx-third" options="-parameters" />
+      <module name="bjgx-third-generator" options="-parameters" />
       <module name="wx" options="-parameters" />
     </option>
   </component>
